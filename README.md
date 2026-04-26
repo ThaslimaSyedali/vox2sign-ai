@@ -1,4 +1,4 @@
- vox2sign-ai# 🤟 Vox2Sign AI - Speech to Sign Language Converter
+   Vox2Sign AI - Speech to Sign Language Converter
 
 An AI-powered real-time system that converts spoken speech into 
 sign language gestures, built to aid deaf and hard-of-hearing communities.
